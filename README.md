@@ -1,2 +1,3 @@
-# SMUDataScience6306
-My DS6303 Project
+Data Science profile for Satish Mylapore:
+
+![Alt text](https://github.com/ms-satishbabu/SMUDataScience6306/blob/master/profile.JPG)
